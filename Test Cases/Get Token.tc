@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get Token</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b750ec17-1933-4d1a-b0ee-6ebb773a8d8d</testCaseGuid>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>bc9da820-2efb-482a-8035-18bf4ecb923d</id>
+      <masked>false</masked>
+      <name>no</name>
+   </variable>
+</TestCaseEntity>

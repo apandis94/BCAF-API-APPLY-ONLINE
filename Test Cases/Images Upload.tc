@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Images Upload</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2ce600d6-93a8-481a-b176-62231023fdbd</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.global_token</defaultValue>
+      <description></description>
+      <id>93b5e25e-dfcf-484b-8179-9ec7d40aab1d</id>
+      <masked>false</masked>
+      <name>acc_token</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>2cbb130c-dbe8-433b-b850-4e1ebcec2001</id>
+      <masked>false</masked>
+      <name>no</name>
+   </variable>
+   <variable>
+      <defaultValue>'D:\\Kerja\\Sigma Aprova\\ME\\KTP.jpg'</defaultValue>
+      <description></description>
+      <id>33048023-a8bf-4b2e-9d1d-e0cf7b591185</id>
+      <masked>false</masked>
+      <name>ktp</name>
+   </variable>
+   <variable>
+      <defaultValue>'320354'</defaultValue>
+      <description></description>
+      <id>b9b49cf9-46ba-48bc-a703-470ed45b96be</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+   <variable>
+      <defaultValue>'D:\\Kerja\\Sigma Aprova\\ME\\kk.jpg'</defaultValue>
+      <description></description>
+      <id>927869fa-0d7f-40a8-88e7-a4060fdf92d6</id>
+      <masked>false</masked>
+      <name>kk</name>
+   </variable>
+</TestCaseEntity>
